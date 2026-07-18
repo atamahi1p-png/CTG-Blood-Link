@@ -1,0 +1,6 @@
+{
+  "name": "BloodLink CTG",
+  "description": "Connecting Donors, Saving Lives. A modern location-based blood donor platform for Chattogram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
